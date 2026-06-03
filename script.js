@@ -1,0 +1,1 @@
+function toggleMenu(){document.querySelector('.navlinks').classList.toggle('open')}function quoteAlert(){const name=document.querySelector('#name')?.value||'there';alert('Thanks '+name+'. This quote form is ready to connect to email, CRM, or a live booking workflow.');}
